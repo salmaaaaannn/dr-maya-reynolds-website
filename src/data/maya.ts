@@ -4,9 +4,10 @@ export interface NavItem {
 }
 
 export const navigationData: NavItem[] = [
-  { title: "About", href: "#about" },
+  
   { title: "Services", href: "#services" },
   { title: "Approach", href: "#approach" },
+  { title: "About", href: "#about" },
   { title: "Office", href: "#office" },
   { title: "FAQs", href: "#faqs" },
   { title: "Contact", href: "#contact" },
