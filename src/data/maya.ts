@@ -309,9 +309,10 @@ export const footerData = {
   address: "123th Street 45 W, Santa Monica, CA 90401",
   telehealthNote: "In-Person Sessions in Santa Monica & Telehealth Across California",
   links: [
-    { title: "About", href: "#about" },
+    
     { title: "Services", href: "#services" },
     { title: "Approach", href: "#approach" },
+     { title: "About", href: "#about" },
     { title: "Office", href: "#office" },
     { title: "FAQs", href: "#faqs" },
     { title: "Contact", href: "#contact" },
